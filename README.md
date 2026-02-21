@@ -19,7 +19,7 @@ Pagina web que permite a los usuarios suscribirse a una newsletter básica.
 
 ## 🔗 Enlace al proyecto
 Repositorio en GitHub: https://github.com/CesarAlvizo/Newsletter.git
-Deploy: [Pega aquí el deploy de GitHub Pages]
+Deploy: https://cesaralvizo.github.io/Newsletter/
 ---
 
 ## 📝 Reflexión
