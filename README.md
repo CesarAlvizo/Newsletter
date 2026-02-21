@@ -18,9 +18,9 @@ Pagina web que permite a los usuarios suscribirse a una newsletter básica.
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
+Repositorio en GitHub: https://github.com/CesarAlvizo/Newsletter.git
 Deploy: [Pega aquí el deploy de GitHub Pages]
 ---
 
 ## 📝 Reflexión
-La unica dificultad que tuve fue con el padding de la tarjeta, ya que no sabia como hacerlo para que se viera identico a la imagen de referencia, pero al final lo logre.
+La unica dificultad que tuve fue con el padding de la tarjeta, ya que no sabia como adaptarlo para que se viera identico a la imagen de referencia, pero al final lo logre.
